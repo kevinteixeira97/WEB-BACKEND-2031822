@@ -21,7 +21,7 @@ function novo_media(numeros_recebidos)
     }
     return soma / numeros_recebidos.length;
 }
-console.log(novo_media([12,8]))
+//console.log(novo_media([12,8]))
 
 //node index.js
 
@@ -194,5 +194,5 @@ function media(lista_recebida)
     }
     return soma / lista_recebida.length;
 }
-console.log(media([1,2,4]))
+//console.log(media([1,2,4]))
 
